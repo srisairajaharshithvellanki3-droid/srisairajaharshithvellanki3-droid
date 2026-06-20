@@ -1,5 +1,5 @@
 # 💫 About Me:
-M.SC Data science graduate<br>Results-driven Data Analyst with an M.Sc. in Data Science & Analytics<br>killed in transforming complex data into meaningful insights and business solutions. Experienced in Python, SQL, Power BI, and AI-driven analytics<br><br><br>
+M.SC Data science graduate<br>Data Analyst with an M.Sc. in Data Science & Analytics, combining a software engineering background in database management and system development with customer-facing experience in diagnosing issues and resolving them efficiently. Proficient in Python, postgresql, and Power BI for building data pipelines, dashboards, and AI-driven analytics solutions. Strong problem-solving abilities and a continuous learning mindset, with a track record of bridging technical depth and clear communication to support data-informed business decisions.<br>
 
 
 ## 🌐 Socials:
